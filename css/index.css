@@ -1,0 +1,63 @@
+.sidebar-head {
+	background-color: #6F6F6F;
+	color: white;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.trm-well {
+	background-color: #f5f5f5;
+	border: 1px solid #e3e3e3;
+}
+
+.sidebar-list {
+    list-style-type: none;
+	height: 100%;
+	padding-left: 0px;
+}
+
+.sidebar-list li {
+	padding: 5px 5px 5px 5px;
+	padding-left: 20px;
+}
+
+.sidebar-list li:hover {
+	background-color: #A5A5A5;
+}
+
+.sidebar-list .active {
+	background-color: #EFEDED;
+	font-weight: bold;
+}
+
+.trm-container {
+	border-radius: 15px;
+	border: 1px solid #CDCDCD;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+.trm-container-head {
+	background-color: #CDCDCD;
+	font-weight: bold;
+	padding: 5px 10px 5px 10px;
+}
+
+.trm-container-body {
+	padding: 5px 10px 5px 10px;
+}
+
+.table-striped tr:hover {
+	background-color: #A5A5A5;
+}
+
+.table-striped .trm-danger {
+	color: red;
+}
+.table-striped .trm-success {
+	color: green;
+}
+
+.sidebar-container {
+	height: 100vh;
+}
